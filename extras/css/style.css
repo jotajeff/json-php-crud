@@ -1,0 +1,25 @@
+body {
+
+	margin-top: 100px;
+	background: #006699;
+}
+
+.nav-link:hover {
+	background-color:  #AF6B06;
+	
+	-webkit-transition: 0.5s ease-out;
+	-moz-transition: 0.5s ease-out;
+	-o-transition: 0.5s ease-out;
+	transition: 0.5s ease-out;
+
+}
+
+.footer {
+
+	min-height: 200px;
+	background: #373A3C;
+	margin-top: 100px;
+	margin-bottom: -10px;
+	padding: 10px;
+
+}

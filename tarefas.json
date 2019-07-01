@@ -1,0 +1,26 @@
+[
+    {
+        "tarefa": "Lavar carro",
+        "dia": "2019-06-30",
+        "situacao": "pendente",
+        "prioridade": 3
+    },
+    {
+        "tarefa": "Limpar jardim",
+        "dia": "2019-07-03",
+        "situacao": "pendente",
+        "prioridade": 2
+    },
+    {
+        "tarefa": "Limpar CASA Alterado",
+        "dia": "2019-07-01",
+        "situacao": "executada",
+        "prioridade": "1"
+    },
+    {
+        "tarefa": "testando ... de novo Block",
+        "dia": "2019-07-13",
+        "situacao": "pendente",
+        "prioridade": "3"
+    }
+]
